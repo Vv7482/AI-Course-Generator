@@ -23,9 +23,9 @@ AI-Course-Generator/
 
 ## Prerequisites
 
-- Node.js 18 or later
+- Node.js 18
 - npm
-- MongoDB database, local or hosted
+- MongoDB database
 - Google Gemini API key
 - YouTube Data API v3 key for video blocks
 
@@ -75,7 +75,7 @@ Start the backend in one terminal:
 
 ```bash
 cd server
-npm run dev
+npm start
 ```
 
 Start the frontend in a second terminal:
